@@ -23,5 +23,7 @@ I'm a dedicated student passionate about crafting code and building innovative s
  <img src="https://myreadme.vercel.app/api/embed/Farouk-Chtioui?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </p>
 
-## Let's Connect!
-- 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/farouk-chtioui-573247283/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/farouk chtioui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farouk chtioui" height="30" width="40" /></a>
+</p>
