@@ -1,3 +1,5 @@
+![MasterHead](https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg)
+
 # Hi there, I'm Farouk Chtioui! 👋
 
 I'm a dedicated student passionate about crafting code and building innovative solutions in the IT industry. My journey revolves around constantly enhancing my skills through hands-on experiences, e-learning programs, and personal projects. 🚀
