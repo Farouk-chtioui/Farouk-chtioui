@@ -40,9 +40,6 @@ I'm a dedicated student passionate about crafting code and building innovative s
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Farouk-chtioui&show_icons=true&theme=dark" alt="GitHub Stats" />
-      </td>
-      <td align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=Farouk-chtioui&theme=radical" alt="GitHub Trophy" />
       </td>
     </tr>
