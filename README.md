@@ -4,10 +4,9 @@
 I'm a dedicated student passionate about crafting code and building innovative solutions in the IT industry. My journey revolves around constantly enhancing my skills through hands-on experiences, e-learning programs, and personal projects. 🚀
 
 ## About Me
-- 🌱 I'm currently exploring new technologies and expanding my knowledge base.
-- 💡 I believe in the power of continuous learning and self-improvement.
-- 🔭 I’m currently working on sharpening my proficiency in HTML/CSS/JavaScript, Angular, Java, Python, PHP, and MySQL.
-
+-  I'm currently exploring new technologies and expanding my knowledge base.
+-  I believe in the power of continuous learning and self-improvement.
+-  I’m currently working on sharpening my proficiency in Nestjs,GraphQl,Stripe
 ## Tech Stack
 
 ### Languages and Tools:
