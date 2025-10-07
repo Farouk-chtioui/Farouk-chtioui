@@ -1,58 +1,77 @@
 ![MasterHead](https://img.etimg.com/thumb/msid-84146083,width=1015,height=761,imgsize-638053,resizemode-8,quality=100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg)
 
-<h1 align="center">Hi 👋, I'm Farouk Chtioui,</h1>
-I'm a dedicated student passionate about crafting code and building innovative solutions in the IT industry. My journey revolves around constantly enhancing my skills through hands-on experiences, e-learning programs, and personal projects. 🚀
+<h1 align="center">Farouk Chtioui</h1>
+<p align="center"><b>Backend Software Engineer · Payments & APIs</b></p>
 
-## About Me
--  I'm currently exploring new technologies and expanding my knowledge base.
--  I believe in the power of continuous learning and self-improvement.
--  I’m currently working on sharpening my proficiency in Nestjs,GraphQl,Stripe
+<p align="center">
+Sousse, Tunisia · <a href="mailto:farouk.chtioui.it@gmail.com">farouk.chtioui.it@gmail.com</a> · +216 25 166 501 ·
+<a href="https://www.linkedin.com/in/farouk-chtioui-573247283/">LinkedIn</a> ·
+<a href="https://github.com/Farouk-chtioui">GitHub</a> ·
+<a href="sandbox:/mnt/data/Farouk_cv.pdf">Résumé (PDF)</a>
+</p>
+
+---
+
+## About
+Backend engineer focused on reliable payments and clean APIs. NestJS and TypeScript first. GraphQL for product velocity. I ship small, test, and iterate.
+
+## Highlights
+- Built Stripe Payment Sheet + Connect flows (subs, wallets, payouts) with webhook signing and idempotency.
+- Designed GraphQL over MongoDB for social features and internal tools.
+- Cut delivery routing time ~20% and redundant routes ~25% through API and data fixes.
+- Delivered 15+ REST endpoints with ~30% faster median latency via caching and query tuning.
+
+## Experience
+**Back End Engineer · DunDill** · Jul 2025 – present  
+GraphQL APIs, MongoDB schemas, Stripe integrations, PCI-aware webhooks.
+
+**End-of-Year Intern · Full-Stack Web & Mobile · DunDill** · Oct 2024 – Jul 2025  
+CMS dashboard to generate/manage mobile APKs. Secured backend, live preview frontend.
+
+**Full-Stack Intern · DunDill** · May 2024 – Sep 2024  
+Routing optimizations, REST APIs, performance work.
+
+## Education · Certifications
+- B.Sc. Computer Software Engineering · **EPI** · Sep 2022 – Jul 2025  
+- Google Cloud Big Data & ML Fundamentals · MLOps: Getting Started  
+- Algorithmic Toolbox · Version Control · IEEEXtreme 17.0 (Participation)
+
 ## Tech Stack
-
-### Languages and Tools:
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></td>
-      <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></td>
-      <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></td>
-      <td><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/></td>
-      <td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></td>
-      <td><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/></td>
-      <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></td>
-      <td><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></td>
-      <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></td>
-      <td></td>
-    </tr>
-  </table>
+
+| Languages | Backend | Datastores | Frontend | DevOps | Payments | Auth |
+|---|---|---|---|---|---|---|
+| JavaScript · TypeScript · Python | Node.js · NestJS · GraphQL · REST | MongoDB | React · Angular | Docker · Git · GitHub Actions | Stripe · Connect · Webhooks · Idempotency · 3DS/SCA | JWT · OAuth |
+
 </div>
 
+## Projects
+- **Social App** · worked on the backend to generate fast scalable apis using graphql ranging from messages logic e-wallet , payments etc.
+- **AGB Transport** · Supply chain solution .
+- **APP BUILDER PRO** · A CMS platform that enables users to generate complete mobile applications directly from the dashboard. The SaaS is designed for advertisement management.
 ## My Workspace
-
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=Farouk-chtioui&theme=radical" alt="GitHub Trophy" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farouk-chtioui&theme=dark" alt="GitHub Streak Stats" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-profile-trophy.vercel.app/?username=Farouk-chtioui&theme=radical" alt="GitHub Trophy" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farouk-chtioui&theme=dark" alt="GitHub Streak Stats" />
 </div>
 
-<h3 align="left">Connect with me:</h3>
+## Toolbox Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+<h3 align="left">Connect</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/farouk-chtioui-573247283/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farouk chtioui" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/farouk-chtioui-573247283/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Farouk Chtioui" height="30" width="40" />
   </a>
 </p>
