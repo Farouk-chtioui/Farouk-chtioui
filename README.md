@@ -1,7 +1,7 @@
 ![MasterHead](https://img.etimg.com/thumb/msid-84146083,width=1015,height=761,imgsize-638053,resizemode-8,quality=100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg)
 
 <h1 align="center">Farouk Chtioui</h1>
-<p align="center"><b>Backend Software Engineer · Payments & APIs</b></p>
+<p align="center"><b> Full Stack Backend focused Software Engineer </b></p>
 
 <p align="center">
 Sousse, Tunisia · <a href="mailto:farouk.chtioui.it@gmail.com">farouk.chtioui.it@gmail.com</a> · +216 25 166 501 ·
@@ -18,7 +18,7 @@ Backend engineer focused on reliable payments and clean APIs. NestJS and TypeScr
 ## Highlights
 - Built Stripe Payment Sheet + Connect flows (subs, wallets, payouts) with webhook signing and idempotency.
 - Designed GraphQL over MongoDB for social features and internal tools.
-- Cut delivery routing time ~20% and redundant routes ~25% through API and data fixes.
+- Cut delivery routing time and redundant routes through API and data fixes.
 - Delivered 15+ REST endpoints with ~30% faster median latency via caching and query tuning.
 
 ## Experience
