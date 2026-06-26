@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend-Focused+Software+Engineer;NestJS+%7C+TypeScript+%7C+GraphQL+%7C+MongoDB;Stripe+Payments+%7C+Wallets+%7C+Webhooks;Backend+%2B+Dashboard+%2B+Mobile-Linked+Products;Clean+architecture+for+real+production+systems"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend-Focused+Software+Engineer;NestJS+%7C+TypeScript+%7C+GraphQL+%7C+MongoDB;Laravel+Dashboard+Workflows;Stripe+Payments+%7C+Wallets+%7C+Webhooks;Backend+%2B+Dashboard+%2B+Mobile-Linked+Products"
       alt="Typing SVG"
     />
   </a>
@@ -39,7 +39,7 @@
 
 I am a backend-focused software engineer based in Sousse, Tunisia.
 
-Most of my work is around **NestJS**, **TypeScript**, **GraphQL**, **MongoDB**, and **Stripe**. I work on backend systems, admin dashboards, and mobile-linked product flows where the backend is connected to real product features, payment logic, moderation tools, certification workflows, and operational dashboards.
+Most of my work is around **NestJS**, **TypeScript**, **GraphQL**, **MongoDB**, **Stripe**, and **Laravel dashboard workflows**. I work on backend systems, admin dashboards, and mobile-linked product flows where the backend is connected to real product features, payment logic, moderation tools, certification workflows, and operational dashboards.
 
 I like working close to the product, not only writing isolated endpoints. My focus is to build backend logic that is clear, reliable, secure, and maintainable when the project grows.
 
@@ -47,7 +47,7 @@ I like working close to the product, not only writing isolated endpoints. My foc
 name       : Farouk Chtioui
 role       : Backend-Focused Software Engineer
 location   : Sousse, Tunisia
-stack      : NestJS, TypeScript, GraphQL, MongoDB, Stripe
+stack      : NestJS, TypeScript, GraphQL, MongoDB, Stripe, Laravel
 focus      : APIs, payments, dashboards, mobile-linked workflows
 ```
 
@@ -57,14 +57,14 @@ focus      : APIs, payments, dashboards, mobile-linked workflows
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-GraphQL%20APIs-38BDF8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dashboard-Admin%20Workflows-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dashboard-Laravel%20Admin%20Workflows-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Mobile-App%20Builder%20Flows-22C55E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Payments-Stripe%20%7C%20Wallets%20%7C%20Payouts-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
 </p>
 
 ```mermaid
 flowchart LR
-    A[Backend APIs] --> B[Admin Dashboard]
+    A[Backend APIs] --> B[Laravel Admin Dashboard]
     A --> C[Mobile App Flows]
     B --> D[Operational Tools]
     B --> E[Certification Review]
@@ -126,6 +126,7 @@ flowchart LR
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
@@ -139,6 +140,16 @@ flowchart LR
   <img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge" />
 </p>
 
+### Laravel Dashboard
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Admin_Dashboard-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Moderation_Tools-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Certification_Workflows-1E3A8A?style=for-the-badge" />
+</p>
+
 ### Database & Infrastructure
 
 <p>
@@ -150,14 +161,13 @@ flowchart LR
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
-### Frontend & Dashboard
+### Mobile-Linked Product Work
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Apollo_Client-311C87?style=for-the-badge&logo=apollographql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
-  <img src="https://img.shields.io/badge/Recharts-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobile_Workflows-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/App_Builder-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CMS_Configuration-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API_Driven-16A34A?style=for-the-badge" />
 </p>
 
 ### Payments & Security
@@ -179,7 +189,7 @@ flowchart LR
 
 **Jul 2025 – Present**
 
-I work across the DunDill ecosystem with a strong focus on backend systems, dashboard features, and mobile-linked product workflows.
+I work across the DunDill ecosystem with a strong focus on backend systems, Laravel dashboard features, and mobile-linked product workflows.
 
 **Backend work:**
 
@@ -192,8 +202,8 @@ I work across the DunDill ecosystem with a strong focus on backend systems, dash
 
 **Dashboard work:**
 
-* Build and improve internal/admin dashboard features using **React**, **Apollo Client**, **Material UI**, routing, charts, calendars, and data-driven interfaces
-* Connect dashboard screens to GraphQL APIs and backend workflows
+* Build and improve internal/admin dashboard features using **Laravel**
+* Connect dashboard screens to backend workflows and operational actions
 * Improve moderator/admin workflows, certification views, counters, notifications, and operational interfaces
 * Work on UX improvements for complex backend actions such as validation, rollback flows, correction history, and audit visibility
 
@@ -209,9 +219,9 @@ I work across the DunDill ecosystem with a strong focus on backend systems, dash
 
 **Oct 2024 – Jul 2025**
 
-* Built and improved dashboard features for managing mobile-linked applications and CMS-driven app configuration
+* Built and improved Laravel dashboard features for managing mobile-linked applications and CMS-driven app configuration
 * Worked on backend APIs supporting app management, generated mobile apps, and dashboard operations
-* Improved frontend live-preview behavior and backend integration logic
+* Improved live-preview behavior and backend integration logic
 * Contributed to security, validation, API reliability, and product workflow improvements
 * Worked across backend, dashboard, and mobile-connected features instead of only isolated frontend tasks
 
@@ -221,7 +231,7 @@ I work across the DunDill ecosystem with a strong focus on backend systems, dash
 
 **May 2024 – Sep 2024**
 
-* Contributed to backend APIs and frontend features for operational product workflows
+* Contributed to backend APIs and dashboard features for operational product workflows
 * Improved routing logic, reduced duplicated routes, and helped clean up application flows
 * Worked on backend performance and better structure across delivery/product logic
 * Gained practical experience shipping features inside a real production-oriented codebase
@@ -245,21 +255,21 @@ I work across the DunDill ecosystem with a strong focus on backend systems, dash
       </p>
     </td>
     <td width="33%">
-      <h3 align="center">Admin Dashboard</h3>
+      <h3 align="center">Laravel Admin Dashboard</h3>
       <p align="center">
-        Dashboard features for admin workflows, certification review, counters, notifications, operational screens, statistics, moderation tools, and backend-connected actions.
+        Laravel dashboard for admin workflows, certification review, counters, notifications, operational screens, moderation tools, and backend-connected actions.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Apollo_Client-311C87?style=flat-square&logo=apollographql&logoColor=white" />
-        <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" />
-        <img src="https://img.shields.io/badge/Recharts-0F172A?style=flat-square" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Admin_Tools-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/Moderation-0F172A?style=flat-square" />
       </p>
     </td>
     <td width="33%">
       <h3 align="center">Mobile-Linked Product</h3>
       <p align="center">
-        Product flows connecting backend APIs, dashboard configuration, CMS features, app generation, APK management, and mobile-facing business logic.
+        Product flows connecting backend APIs, Laravel dashboard controls, CMS features, app generation, APK management, and mobile-facing business logic.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Mobile_Workflows-1E3A8A?style=flat-square" />
@@ -289,37 +299,33 @@ I work across the DunDill ecosystem with a strong focus on backend systems, dash
       </p>
     </td>
     <td width="50%">
-      <h3>dundill-developer-frontend</h3>
+      <h3>Laravel Dashboard</h3>
       <p>
-        React dashboard using Apollo Client, Material UI, charts, calendars, routing, and backend-connected admin workflows.
+        Admin dashboard work built around Laravel for certification workflows, moderation actions, operational views, counters, notifications, and backend-connected admin features.
       </p>
       <p>
-        <a href="https://github.com/mehry-aya/dundill-developer-frontend">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
+        <img src="https://img.shields.io/badge/Laravel_Dashboard-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>dundill-react-ing</h3>
+      <h3>Mobile-Linked Features</h3>
       <p>
-        React client work connected to product-facing flows, app/client interfaces, forms, authentication, routing, and dashboard-related features.
+        Product-facing workflows connected to mobile behavior, app configuration, CMS logic, APK/app management, and backend APIs.
       </p>
       <p>
-        <a href="https://github.com/bahriovich/dundill-react-ing">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
+        <img src="https://img.shields.io/badge/Mobile_Workflows-1E3A8A?style=for-the-badge" />
       </p>
     </td>
     <td width="50%">
       <h3>Product Scope</h3>
       <p>
-        Work across backend, dashboard, and mobile-linked systems: payments, certification, moderation, CMS configuration, app management, and operational tooling.
+        Work across backend, Laravel dashboard, and mobile-linked systems: payments, certification, moderation, CMS configuration, app management, and operational tooling.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Backend-38BDF8?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Dashboard-7C3AED?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Laravel_Dashboard-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
         <img src="https://img.shields.io/badge/Mobile-22C55E?style=for-the-badge" />
       </p>
     </td>
@@ -341,14 +347,14 @@ DunDill Backend
 ├── Background jobs and scheduled logic
 └── Tests and backend reliability
 
-DunDill Dashboard
-├── React admin/developer interfaces
-├── Apollo Client integration
-├── Statistics, counters, and operational views
+DunDill Laravel Dashboard
+├── Admin dashboard interfaces
 ├── Certification and moderation screens
+├── Counters and operational views
+├── Notifications and dashboard indicators
+├── Backend-connected admin actions
 ├── CMS / app-management workflows
-├── Charts, calendars, and dashboard UI
-└── Backend-connected admin actions
+└── Product operation tooling
 
 DunDill Mobile-Linked Workflows
 ├── Mobile app configuration
