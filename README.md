@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e3a8a,100:7c3aed&text=Farouk%20Chtioui&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Backend-Focused%20Software%20Engineer&descSize=18&descAlignY=58&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,45:1e3a8a,100:7c3aed&text=Farouk%20Chtioui&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Backend-Focused%20Software%20Engineer&descSize=18&descAlignY=58&animation=fadeIn"
     alt="Farouk Chtioui Banner"
     width="100%"
   />
@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend-Focused+Software+Engineer;NestJS+%7C+TypeScript+%7C+GraphQL+%7C+MongoDB;Stripe+Payments+%7C+Wallets+%7C+Webhooks+%7C+Clean+Architecture;Building+secure%2C+scalable%2C+production-ready+systems"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend-Focused+Software+Engineer;NestJS+%7C+TypeScript+%7C+GraphQL+%7C+MongoDB;Stripe+Payments+%7C+Wallets+%7C+Webhooks;Backend+%2B+Dashboard+%2B+Mobile-Linked+Products;Clean+architecture+for+real+production+systems"
       alt="Typing SVG"
     />
   </a>
@@ -35,50 +35,50 @@
 
 ---
 
-## Backend Engineer Building Production Systems
+## About Me
 
-I am a backend-focused software engineer based in Sousse, Tunisia, working mainly with **NestJS**, **TypeScript**, **GraphQL**, **MongoDB**, and **Stripe**.
+I am a backend-focused software engineer based in Sousse, Tunisia.
 
-I focus on building backend systems that are secure, maintainable, scalable, and ready for real production environments. My work is centered around clean architecture, reliable payment flows, API design, database consistency, security, and backend logic that supports real users and real business operations.
+Most of my work is around **NestJS**, **TypeScript**, **GraphQL**, **MongoDB**, and **Stripe**. I work on backend systems, admin dashboards, and mobile-linked product flows where the backend is connected to real product features, payment logic, moderation tools, and operational dashboards.
+
+I like working close to the product, not only writing isolated endpoints. My focus is to build backend logic that is clear, reliable, secure, and maintainable when the project grows.
 
 ```txt
-> system.identity
-
 name       : Farouk Chtioui
 role       : Backend-Focused Software Engineer
 location   : Sousse, Tunisia
 stack      : NestJS, TypeScript, GraphQL, MongoDB, Stripe
-focus      : APIs, payments, clean architecture, reliability
-goal       : Build systems that scale beyond local development
+focus      : APIs, payments, dashboards, mobile-linked workflows
 ```
 
 ---
 
-## Engineering Identity
+## What I Work On
 
 <p align="center">
-  <img src="https://img.shields.io/badge/API%20Design-Production%20Ready-38BDF8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Payments-Stripe%20Focused-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Architecture-Clean%20Modules-22C55E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security-JWT%20%7C%20OAuth%20%7C%20Webhooks-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-GraphQL%20APIs-38BDF8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dashboard-Admin%20Workflows-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobile-App%20Builder%20Flows-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Payments-Stripe%20%7C%20Wallets%20%7C%20Payouts-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
 </p>
 
 ```mermaid
 flowchart LR
-    A[Product Requirements] --> B[API Design]
-    B --> C[NestJS Modules]
-    C --> D[Business Logic]
-    D --> E[MongoDB Models]
-    D --> F[Stripe Payments]
-    D --> G[Auth & Security]
-    E --> H[Production Backend]
-    F --> H
-    G --> H
+    A[Backend APIs] --> B[Dashboard]
+    A --> C[Mobile App Flows]
+    B --> D[Admin Operations]
+    B --> E[Certification Review]
+    B --> F[CMS / App Builder]
+    A --> G[Stripe Payments]
+    A --> H[Wallets & Payouts]
+    A --> I[Auth & Security]
+    C --> J[User-Facing Product]
+    F --> J
 ```
 
 ---
 
-## GitHub Performance
+## GitHub Activity
 
 <p align="center">
   <img
@@ -110,6 +110,14 @@ flowchart LR
 
 <p align="center">
   <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Farouk-chtioui&theme=tokyonight"
+    alt="GitHub Profile Details"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Farouk-chtioui&theme=tokyo-night&hide_border=true&area=true"
     alt="Contribution Activity Graph"
     width="100%"
@@ -130,7 +138,7 @@ flowchart LR
 
 ---
 
-## Core Backend Stack
+## Core Stack
 
 ### Languages
 
@@ -146,6 +154,7 @@ flowchart LR
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge" />
 </p>
 
@@ -154,15 +163,20 @@ flowchart LR
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-B91C1C?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bull_Queue-CB3837?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
-### Frontend Experience
+### Frontend & Dashboard
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apollo_Client-311C87?style=for-the-badge&logo=apollographql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/Recharts-0F172A?style=for-the-badge" />
 </p>
 
 ### Payments & Security
@@ -178,30 +192,35 @@ flowchart LR
 
 ---
 
-## Production Backend Toolkit
-
-| Area             | What I Work On                                                   |
-| ---------------- | ---------------------------------------------------------------- |
-| API Architecture | GraphQL APIs, REST APIs, module boundaries, DTOs, validation     |
-| Payments         | Stripe Payment Sheet, Stripe Connect, wallets, payouts, webhooks |
-| Security         | JWT, OAuth, guards, authorization, webhook signatures            |
-| Database         | MongoDB schemas, indexing, query optimization, consistency       |
-| Reliability      | Idempotency, clean error handling, service separation            |
-| Product Systems  | Dashboards, CMS platforms, mobile-linked products, admin tools   |
-
----
-
 ## Professional Experience
 
 ### Backend Engineer — DunDill
 
 **Jul 2025 – Present**
 
-* Build and maintain backend services using **NestJS**, **TypeScript**, **GraphQL**, and **MongoDB**
-* Work on payment systems involving **Stripe**, wallet flows, payouts, webhook verification, and idempotent operations
-* Design backend logic for social, financial, and product-facing features
-* Improve reliability, maintainability, and structure across backend modules and services
-* Collaborate on production features involving dashboards, mobile apps, and backend infrastructure
+I work across the DunDill ecosystem with a strong focus on backend systems, dashboard features, and mobile-linked product workflows.
+
+**Backend work:**
+
+* Build and maintain backend features using **NestJS**, **TypeScript**, **GraphQL/Apollo**, and **MongoDB/Mongoose**
+* Work on payment-related flows using **Stripe**, including payment handling, wallet logic, payouts, webhook verification, and idempotent operations
+* Contribute to authentication and protected flows using **JWT**, OAuth-related integrations, guards, validation, and secure API patterns
+* Improve backend reliability through cleaner services, better error handling, structured schemas, and maintainable module design
+* Work with background-processing and infrastructure-oriented tools such as queues, schedulers, caching, and production scripts
+* Add and maintain tests for critical backend logic and edge cases
+
+**Dashboard work:**
+
+* Build and improve internal/admin dashboard features using **React**, **Apollo Client**, **Material UI**, routing, charts, calendars, and data-driven interfaces
+* Connect dashboard screens to GraphQL APIs and backend workflows
+* Improve moderator/admin workflows, certification views, counters, notifications, and operational interfaces
+* Work on UX improvements for complex backend actions such as validation, rollback flows, correction history, and audit visibility
+
+**Mobile-linked product work:**
+
+* Support mobile product features through backend APIs, dashboard configuration, and app-management workflows
+* Work on systems connected to mobile app generation, user-facing app behavior, APK/app configuration, and CMS-driven mobile features
+* Help connect backend logic, dashboard controls, and mobile-facing product requirements into one complete product flow
 
 ---
 
@@ -209,10 +228,11 @@ flowchart LR
 
 **Oct 2024 – Jul 2025**
 
-* Built and improved a CMS dashboard used to generate and manage mobile applications
-* Developed backend features supporting APK generation, dashboard operations, and app management workflows
-* Improved frontend live preview functionality and backend integration logic
-* Worked on security improvements, validation flows, and API reliability
+* Built and improved dashboard features for managing mobile-linked applications and CMS-driven app configuration
+* Worked on backend APIs supporting app management, generated mobile apps, and dashboard operations
+* Improved frontend live-preview behavior and backend integration logic
+* Contributed to security, validation, API reliability, and product workflow improvements
+* Worked across backend, dashboard, and mobile-connected features instead of only isolated frontend tasks
 
 ---
 
@@ -220,33 +240,79 @@ flowchart LR
 
 **May 2024 – Sep 2024**
 
-* Contributed to backend APIs and frontend features for operational and delivery-related workflows
-* Improved routing logic and reduced redundant routes across application flows
-* Worked on performance-oriented improvements and cleaner backend structure
-* Gained practical experience shipping real features in a production-oriented environment
+* Contributed to backend APIs and frontend features for operational product workflows
+* Improved routing logic, reduced duplicated routes, and helped clean up application flows
+* Worked on backend performance and better structure across delivery/product logic
+* Gained practical experience shipping features inside a real production-oriented codebase
 
 ---
 
-## Selected Work
+## Repository Spotlight
+
+<p align="center">
+  <a href="https://github.com/mehry-aya/dundill-developer-backend">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=mehry-aya&repo=dundill-developer-backend&theme=tokyonight&hide_border=true"
+      alt="DunDill Developer Backend"
+    />
+  </a>
+  <a href="https://github.com/mehry-aya/dundill-developer-frontend">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=mehry-aya&repo=dundill-developer-frontend&theme=tokyonight&hide_border=true"
+      alt="DunDill Developer Frontend"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/bahriovich/dundill-react-ing">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=bahriovich&repo=dundill-react-ing&theme=tokyonight&hide_border=true"
+      alt="DunDill React Client"
+    />
+  </a>
+</p>
+
+---
+
+## Selected DunDill Work
 
 <table>
   <tr>
     <td width="33%">
-      <h3 align="center">Social App Backend</h3>
+      <h3 align="center">Backend Platform</h3>
       <p align="center">
-        GraphQL backend supporting social features, payments, wallet logic, messaging, and user interactions.
+        NestJS backend powering GraphQL APIs, authentication, payments, wallet logic, user flows, certification logic, and dashboard-connected operations.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
       </p>
     </td>
     <td width="33%">
-      <h3 align="center">AGB Transport</h3>
+      <h3 align="center">Admin Dashboard</h3>
       <p align="center">
-        Transport and supply-chain-oriented solution with backend and operational logic improvements.
+        React dashboard connected to backend APIs for operational workflows, admin actions, statistics, certification handling, counters, and product management.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Apollo_Client-311C87?style=flat-square&logo=apollographql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" />
+        <img src="https://img.shields.io/badge/Recharts-0F172A?style=flat-square" />
       </p>
     </td>
     <td width="33%">
-      <h3 align="center">APP BUILDER PRO</h3>
+      <h3 align="center">Mobile-Linked Product</h3>
       <p align="center">
-        CMS/SaaS platform for generating and managing mobile applications from a dashboard.
+        Product workflows connecting backend services, dashboard controls, app configuration, APK/mobile app management, and mobile-facing business logic.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Mobile_Workflows-1E3A8A?style=flat-square" />
+        <img src="https://img.shields.io/badge/CMS-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/App_Builder-0F172A?style=flat-square" />
+        <img src="https://img.shields.io/badge/API_Driven-16A34A?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -254,7 +320,39 @@ flowchart LR
 
 ---
 
-## Backend Principles I Follow
+## Product Areas
+
+```txt
+DunDill Backend
+├── GraphQL APIs
+├── MongoDB / Mongoose schemas
+├── Stripe payments and webhooks
+├── Wallets, payouts, and payment reliability
+├── Authentication and protected flows
+├── Certification and moderation logic
+├── Background jobs and scheduled logic
+└── Tests and backend reliability
+
+DunDill Dashboard
+├── React admin/developer interfaces
+├── Apollo Client integration
+├── Statistics, counters, and operational views
+├── Certification and moderation screens
+├── CMS / app-management workflows
+├── Charts, calendars, and dashboard UI
+└── Backend-connected admin actions
+
+DunDill Mobile-Linked Workflows
+├── Mobile app configuration
+├── APK/app management flows
+├── CMS-driven mobile features
+├── Mobile-facing backend APIs
+└── Product logic shared between backend, dashboard, and app
+```
+
+---
+
+## Backend Principles
 
 ```txt
 Controller   -> receives request only
@@ -268,12 +366,13 @@ Payment Flow -> must be idempotent
 
 I care about:
 
-* Backend code that is easy to read, test, debug, and extend
-* APIs that are stable, predictable, and product-friendly
-* Payment flows with correct webhook verification and idempotency handling
-* Business logic organized inside services, not hidden inside controllers
-* Performance through better queries, caching, and clean data access
-* Features that work in real environments, not only in local development
+* Clear backend structure
+* Stable APIs
+* Secure payment flows
+* Clean service boundaries
+* Practical error handling
+* Reliable dashboard actions
+* Features that survive real usage, not only local testing
 
 ---
 
@@ -293,19 +392,15 @@ I care about:
 
 ---
 
-## Current Direction
-
-I am currently strengthening my expertise in:
+## Currently Improving
 
 <p>
   <img src="https://img.shields.io/badge/Backend%20Architecture-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Distributed%20Systems-1E3A8A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Engineering-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System%20Design-0369A1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Production%20Reliability-166534?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Design-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Payment%20Reliability-635BFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Testing%20Discipline-166534?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Production%20Debugging-B45309?style=for-the-badge" />
 </p>
-
-My long-term goal is to become the type of engineer who can build systems that are not only functional, but reliable, scalable, secure, and valuable at real company scale.
 
 ---
 
