@@ -39,7 +39,7 @@
 
 I am a backend-focused software engineer based in Sousse, Tunisia.
 
-Most of my work is around **NestJS**, **TypeScript**, **GraphQL**, **MongoDB**, and **Stripe**. I work on backend systems, admin dashboards, and mobile-linked product flows where the backend is connected to real product features, payment logic, moderation tools, and operational dashboards.
+Most of my work is around **NestJS**, **TypeScript**, **GraphQL**, **MongoDB**, and **Stripe**. I work on backend systems, admin dashboards, and mobile-linked product flows where the backend is connected to real product features, payment logic, moderation tools, certification workflows, and operational dashboards.
 
 I like working close to the product, not only writing isolated endpoints. My focus is to build backend logic that is clear, reliable, secure, and maintainable when the project grows.
 
@@ -64,9 +64,9 @@ focus      : APIs, payments, dashboards, mobile-linked workflows
 
 ```mermaid
 flowchart LR
-    A[Backend APIs] --> B[Dashboard]
+    A[Backend APIs] --> B[Admin Dashboard]
     A --> C[Mobile App Flows]
-    B --> D[Admin Operations]
+    B --> D[Operational Tools]
     B --> E[Certification Review]
     B --> F[CMS / App Builder]
     A --> G[Stripe Payments]
@@ -79,13 +79,6 @@ flowchart LR
 ---
 
 ## GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Farouk-chtioui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"
-    alt="GitHub Trophies"
-  />
-</p>
 
 <p align="center">
   <img
@@ -111,7 +104,7 @@ flowchart LR
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Farouk-chtioui&theme=tokyonight"
-    alt="GitHub Profile Details"
+    alt="GitHub Profile Summary"
     width="100%"
   />
 </p>
@@ -120,18 +113,6 @@ flowchart LR
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Farouk-chtioui&theme=tokyo-night&hide_border=true&area=true"
     alt="Contribution Activity Graph"
-    width="100%"
-  />
-</p>
-
----
-
-## Contribution Flow
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Farouk-chtioui/Farouk-chtioui/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
     width="100%"
   />
 </p>
@@ -247,42 +228,14 @@ I work across the DunDill ecosystem with a strong focus on backend systems, dash
 
 ---
 
-## Repository Spotlight
-
-<p align="center">
-  <a href="https://github.com/mehry-aya/dundill-developer-backend">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=mehry-aya&repo=dundill-developer-backend&theme=tokyonight&hide_border=true"
-      alt="DunDill Developer Backend"
-    />
-  </a>
-  <a href="https://github.com/mehry-aya/dundill-developer-frontend">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=mehry-aya&repo=dundill-developer-frontend&theme=tokyonight&hide_border=true"
-      alt="DunDill Developer Frontend"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/bahriovich/dundill-react-ing">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=bahriovich&repo=dundill-react-ing&theme=tokyonight&hide_border=true"
-      alt="DunDill React Client"
-    />
-  </a>
-</p>
-
----
-
-## Selected DunDill Work
+## DunDill Work
 
 <table>
   <tr>
     <td width="33%">
       <h3 align="center">Backend Platform</h3>
       <p align="center">
-        NestJS backend powering GraphQL APIs, authentication, payments, wallet logic, user flows, certification logic, and dashboard-connected operations.
+        Backend services built around NestJS, TypeScript, GraphQL, MongoDB, Stripe, authentication, certification logic, wallet flows, payouts, webhooks, and admin-connected operations.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
@@ -294,7 +247,7 @@ I work across the DunDill ecosystem with a strong focus on backend systems, dash
     <td width="33%">
       <h3 align="center">Admin Dashboard</h3>
       <p align="center">
-        React dashboard connected to backend APIs for operational workflows, admin actions, statistics, certification handling, counters, and product management.
+        Dashboard features for admin workflows, certification review, counters, notifications, operational screens, statistics, moderation tools, and backend-connected actions.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -306,13 +259,68 @@ I work across the DunDill ecosystem with a strong focus on backend systems, dash
     <td width="33%">
       <h3 align="center">Mobile-Linked Product</h3>
       <p align="center">
-        Product workflows connecting backend services, dashboard controls, app configuration, APK/mobile app management, and mobile-facing business logic.
+        Product flows connecting backend APIs, dashboard configuration, CMS features, app generation, APK management, and mobile-facing business logic.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Mobile_Workflows-1E3A8A?style=flat-square" />
         <img src="https://img.shields.io/badge/CMS-7C3AED?style=flat-square" />
         <img src="https://img.shields.io/badge/App_Builder-0F172A?style=flat-square" />
         <img src="https://img.shields.io/badge/API_Driven-16A34A?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Repository Work
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>dundill-developer-backend</h3>
+      <p>
+        Backend codebase using NestJS, GraphQL/Apollo, MongoDB/Mongoose, Stripe, authentication, queues, scheduled logic, and production backend tooling.
+      </p>
+      <p>
+        <a href="https://github.com/mehry-aya/dundill-developer-backend">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>dundill-developer-frontend</h3>
+      <p>
+        React dashboard using Apollo Client, Material UI, charts, calendars, routing, and backend-connected admin workflows.
+      </p>
+      <p>
+        <a href="https://github.com/mehry-aya/dundill-developer-frontend">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>dundill-react-ing</h3>
+      <p>
+        React client work connected to product-facing flows, app/client interfaces, forms, authentication, routing, and dashboard-related features.
+      </p>
+      <p>
+        <a href="https://github.com/bahriovich/dundill-react-ing">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Product Scope</h3>
+      <p>
+        Work across backend, dashboard, and mobile-linked systems: payments, certification, moderation, CMS configuration, app management, and operational tooling.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Backend-38BDF8?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Dashboard-7C3AED?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Mobile-22C55E?style=for-the-badge" />
       </p>
     </td>
   </tr>
