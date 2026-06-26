@@ -283,57 +283,6 @@ I work across the DunDill ecosystem with a strong focus on backend systems, Lara
 
 ---
 
-## Repository Work
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>dundill-developer-backend</h3>
-      <p>
-        Backend codebase using NestJS, GraphQL/Apollo, MongoDB/Mongoose, Stripe, authentication, queues, scheduled logic, and production backend tooling.
-      </p>
-      <p>
-        <a href="https://github.com/mehry-aya/dundill-developer-backend">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Laravel Dashboard</h3>
-      <p>
-        Admin dashboard work built around Laravel for certification workflows, moderation actions, operational views, counters, notifications, and backend-connected admin features.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Laravel_Dashboard-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Mobile-Linked Features</h3>
-      <p>
-        Product-facing workflows connected to mobile behavior, app configuration, CMS logic, APK/app management, and backend APIs.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Mobile_Workflows-1E3A8A?style=for-the-badge" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Product Scope</h3>
-      <p>
-        Work across backend, Laravel dashboard, and mobile-linked systems: payments, certification, moderation, CMS configuration, app management, and operational tooling.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Backend-38BDF8?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Laravel_Dashboard-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Mobile-22C55E?style=for-the-badge" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## Product Areas
 
 ```txt
