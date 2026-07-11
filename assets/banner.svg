@@ -1,0 +1,70 @@
+<svg width="1400" height="260" viewBox="0 0 1400 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="0.5" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(1080 80) scale(320 180)">
+      <stop stop-color="#6366F1" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
+      <animateTransform
+        attributeName="gradientTransform"
+        type="translate"
+        values="1080 80;1020 105;1080 80"
+        dur="12s"
+        repeatCount="indefinite"
+      />
+    </radialGradient>
+
+    <linearGradient id="line" x1="90" y1="0" x2="1310" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+      <animate attributeName="x1" values="-250;90;450" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="700;1310;1700" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1400" height="260" rx="26" fill="url(#bg)"/>
+  <rect width="1400" height="260" rx="26" fill="url(#glow)"/>
+
+  <text
+    x="700"
+    y="106"
+    text-anchor="middle"
+    fill="#F8FAFC"
+    font-size="52"
+    font-weight="700"
+    font-family="Inter,Segoe UI,Arial,sans-serif"
+  >
+    Farouk Chtioui
+  </text>
+
+  <text
+    x="700"
+    y="154"
+    text-anchor="middle"
+    fill="#CBD5E1"
+    font-size="24"
+    font-weight="500"
+    font-family="Inter,Segoe UI,Arial,sans-serif"
+  >
+    Backend Software Engineer
+  </text>
+
+  <text
+    x="700"
+    y="190"
+    text-anchor="middle"
+    fill="#64748B"
+    font-size="17"
+    font-family="Inter,Segoe UI,Arial,sans-serif"
+  >
+    NestJS · TypeScript · GraphQL · MongoDB · Stripe · Laravel
+  </text>
+
+  <rect x="90" y="224" width="1220" height="2.5" rx="1.25" fill="url(#line)" opacity="0.65"/>
+</svg>
