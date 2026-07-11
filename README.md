@@ -1,18 +1,5 @@
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,45:1e3a8a,100:7c3aed&text=Farouk%20Chtioui&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Backend-Focused%20Software%20Engineer&descSize=18&descAlignY=58&animation=fadeIn"
-    alt="Farouk Chtioui Banner"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend-Focused+Software+Engineer;NestJS+%7C+TypeScript+%7C+GraphQL+%7C+MongoDB;Laravel+Dashboard+Workflows;Stripe+Payments+%7C+Wallets+%7C+Webhooks;Backend+%2B+Dashboard+%2B+Mobile-Linked+Products"
-      alt="Typing SVG"
-    />
-  </a>
+  <img src="./assets/banner.svg" alt="Farouk Chtioui" width="100%" />
 </p>
 
 <p align="center">
@@ -379,9 +366,5 @@ I care about:
 </p>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7c3aed,50:1e3a8a,100:0f172a&section=footer"
-    width="100%"
-    alt="Footer"
-  />
+  <img src="./assets/footer.svg" alt="Footer" width="100%" />
 </p>
